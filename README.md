@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
 
-  <img src="https://user-images.githubusercontent.com/119835050/218241024-1a29b2d1-df1b-4e6d-8293-55484e40489f.png" width="30%" heghit="50%">
+  <img src="https://user-images.githubusercontent.com/119835050/218361001-300346c5-e407-4b1b-a467-4fd3e50d93fe.png" width="30%" heghit="50%">
 
 <p/>
